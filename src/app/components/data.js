@@ -26,7 +26,7 @@ export default [
       }
     ],
     "image": {
-      "url": "https://via.placeholder.com/2000x1200",
+      "url": "https://i.pinimg.com/originals/1b/9d/0a/1b9d0ade5151b25b7d5678152d1114d1.jpg",
       "alt": "A placeholder image"
     },
     "publishedDate": "Wed Sep 04 2019 17:04:38 GMT-0400"
@@ -58,7 +58,7 @@ export default [
       }
     ],
     "image": {
-      "url": "https://via.placeholder.com/2000x1200",
+      "url": "https://t4.ftcdn.net/jpg/03/10/51/55/360_F_310515519_5zjhJlY3vOicrzGBC5T8m5nKRuAVgk2c.jpg",
       "alt": "A placeholder image"
     },
     "publishedDate": "Wed Sep 05 2019 10:04:38 GMT-0400"
@@ -90,7 +90,7 @@ export default [
       }
     ],
     "image": {
-      "url": "https://via.placeholder.com/2000x1200",
+      "url": "https://wallpapercave.com/wp/wp9258325.jpg",
       "alt": "A placeholder image"
     },
     "publishedDate": "Wed Sep 06 2019 18:04:38 GMT-0400"
@@ -122,7 +122,7 @@ export default [
       }
     ],
     "image": {
-      "url": "https://via.placeholder.com/2000x1200",
+      "url": "https://w0.peakpx.com/wallpaper/533/260/HD-wallpaper-cloud-pink-sky-u-16-9-background.jpg",
       "alt": "A placeholder image"
     },
     "publishedDate": "Wed Aug 08 2019 12:04:38 GMT-0400"
@@ -154,7 +154,7 @@ export default [
       }
     ],
     "image": {
-      "url": "https://via.placeholder.com/2000x1200",
+      "url": "https://images.unsplash.com/photo-1549213821-4708d624e1d1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8MTYlM0E5fGVufDB8fDB8fHww&w=1000&q=80",
       "alt": "A placeholder image"
     },
     "publishedDate": "Wed Aug 10 2019 12:04:38 GMT-0400"
@@ -194,7 +194,7 @@ export default [
       }
     ],
     "image": {
-      "url": "https://via.placeholder.com/2000x1200",
+      "url": "https://st4.depositphotos.com/9563468/24776/i/450/depositphotos_247767298-stock-photo-sky-background-beautiful-pink-purple.jpg",
       "alt": "A placeholder image"
     },
     "publishedDate": "Wed Aug 22 2019 17:04:38 GMT-0400"
